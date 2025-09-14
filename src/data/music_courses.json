@@ -1,0 +1,54 @@
+{
+    "courses": [
+  {
+    "id": 1,
+    "title": "Beginner Guitar Mastery",
+    "slug": "beginner-guitar-mastery",
+    "description": "A complete course for beginners to learn chords, strumming patterns, and play popular songs on the guitar.",
+    "price": 49.99,
+    "instructor": "John Smith",
+    "isFeatured": true,
+    "thumbnail": "https://example.com/images/guitar-beginner.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Piano for All Levels",
+    "slug": "piano-for-all-levels",
+    "description": "Learn piano from the basics to advanced level with sheet music, ear training, and improvisation techniques.",
+    "price": 69.99,
+    "instructor": "Emily Johnson",
+    "isFeatured": false,
+    "thumbnail": "https://example.com/images/piano-course.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Music Theory Essentials",
+    "slug": "music-theory-essentials",
+    "description": "Understand scales, chords, harmony, and rhythm to improve your music composition and performance.",
+    "price": 39.99,
+    "instructor": "David Lee",
+    "isFeatured": true,
+    "thumbnail": "https://example.com/images/music-theory.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Vocal Training and Singing",
+    "slug": "vocal-training-and-singing",
+    "description": "Develop your vocal range, breathing techniques, and confidence in singing across multiple genres.",
+    "price": 59.99,
+    "instructor": "Sophia Martinez",
+    "isFeatured": false,
+    "thumbnail": "https://example.com/images/vocal-course.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Electronic Music Production",
+    "slug": "electronic-music-production",
+    "description": "Learn how to produce EDM, Hip-Hop, and Lo-Fi beats using professional DAWs and plugins.",
+    "price": 79.99,
+    "instructor": "Michael Brown",
+    "isFeatured": true,
+    "thumbnail": "https://example.com/images/edm-production.jpg"
+  }
+ ]
+}
