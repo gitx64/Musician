@@ -1,7 +1,5 @@
 import { GridSmallBackgroundDemo } from "@/components/effects/BackgroundGrid";
 import FeaturedCard from "@/components/FeaturedCard";
-import HeroSection from "@/components/HeroSection";
-import { Spotlight } from "@/components/ui/spotlight-new";
 
 export default function Home() {
   return (

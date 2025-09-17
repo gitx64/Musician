@@ -1,5 +1,5 @@
 import { cn } from "@/lib/utils";
-import HeroSection from "./HeroSection";
+import HeroSection from "../HeroSection";
 
 export function GridSmallBackgroundDemo() {
   return (

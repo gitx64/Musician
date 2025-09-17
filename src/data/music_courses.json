@@ -37,7 +37,7 @@
     "description": "Develop your vocal range, breathing techniques, and confidence in singing across multiple genres.",
     "price": 59.99,
     "instructor": "Sophia Martinez",
-    "isFeatured": false,
+    "isFeatured": true,
     "thumbnail": "https://example.com/images/vocal-course.jpg"
   },
   {
