@@ -20,12 +20,12 @@ export default function FeaturedCard() {
 
   return (
     <div className="text-center items-center justify-center relative bg-gray-900">
-      
-        <h3 className="text-teal-500 font-bold text-2xl pt-4">Featured Courses</h3>
-        <h1 className="text-5xl font-extrabold pb-3">
-          Learn with best teachings and resources
-        </h1>
-      
+      <h3 className="text-teal-500 font-bold text-2xl pt-4">
+        Featured Courses
+      </h3>
+      <h1 className="text-5xl font-extrabold pb-3">
+        Learn with best teachings and resources
+      </h1>
 
       <div className="mt-10 ">
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 justify-center">
@@ -53,7 +53,7 @@ export default function FeaturedCard() {
 
       <div className="text-center justify-center mt-20">
         <Link href="/courses">
-          <button className="bg-white text-black px-4 py-3 rounded-[6px] ">
+          <button className="bg-white text-black px-4 py-3 rounded-[6px] mb-5">
             View All Courses
           </button>
         </Link>

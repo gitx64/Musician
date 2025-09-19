@@ -1,6 +1,9 @@
 import { GridSmallBackgroundDemo } from "@/components/effects/BackgroundGrid";
 import FeaturedCard from "@/components/FeaturedCard";
+import Footer from "@/components/Footer";
+import Instructors from "@/components/Instructors";
 import ScrollingTabs from "@/components/ScrollingTabs";
+import UpcomingWebiners from "@/components/UpcomingWebiners";
 import WhyChooseUs from "@/components/WhyChooseUs";
 
 export default function Home() {
@@ -11,6 +14,9 @@ export default function Home() {
       <FeaturedCard/>
       <WhyChooseUs/>
       <ScrollingTabs/>
+      <UpcomingWebiners />
+      <Instructors />
+      <Footer />
     </main>
    </>
   )
